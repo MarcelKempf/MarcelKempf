@@ -1,10 +1,10 @@
-Hi there, I'm Marcel 👋
-I'm a Student and Webdeveloper!
-🔭 I’m currently working on a Webbusiness Website!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2020 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love to draw and play guitar / drums
+# Hi there, I'm Marcel 👋
+## I'm a Student and Webdeveloper!
+- 🔭 I’m currently working on a Webbusiness Website!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other creative people
+- 🥅 2020 Goals: Moving in my own aparment
+- ⚡ Fun fact: I love to lift weights
 
 ### Connect with me:
 
