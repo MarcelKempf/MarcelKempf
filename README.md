@@ -38,4 +38,4 @@
 
 
 [website]: https://portfolio.marcel-kempf.online
-[linkedin]: https://linkedin.com/in/MarcelKempf
+[linkedin]: https://linkedin.com/in/devmarcel
