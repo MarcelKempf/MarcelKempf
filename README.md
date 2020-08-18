@@ -1,5 +1,5 @@
 # Hi there, I'm Marcel 👋
-## I'm a Student and Webdeveloper!
+## I'm a Webdeveloper!
 - 🔭 I’m currently working on a Webbusiness Website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
