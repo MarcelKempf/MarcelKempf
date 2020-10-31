@@ -1,10 +1,9 @@
 # Hi there, I'm Marcel 👋
 ## I'm a Webdeveloper!
-- 🔭 I’m currently working on a Webbusiness Website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
-- 🥅 2020 Goals: Moving in my own aparment
-- ⚡ Fun fact: I love to lift weights
+- 🥅 2020 Goals: Moving in my own aparment ✔
+- ⚡ Personal fact: I love to lift weights
 
 ### Connect with me:
 
