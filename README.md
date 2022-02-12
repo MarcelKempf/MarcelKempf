@@ -2,7 +2,6 @@
 ## I'm a Webdeveloper!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
-- 🥅 2021 Goals: Helping businesses 🔲
 - ⚡ Personal fact: I love to lift weights
 
 ### Connect with me:
