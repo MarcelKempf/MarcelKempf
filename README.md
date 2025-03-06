@@ -1,6 +1,5 @@
 # Hi there, I'm Marcel 👋
 ## I'm a Webdeveloper!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creative people
 - ⚡ Personal fact: I love to lift weights
 
@@ -29,11 +28,4 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon 1.0 REST API Example](https://portfolio.marcel-kempf.online)
-<!-- BLOG-POST-LIST:END -->
-
-
-[website]: https://portfolio.marcel-kempf.online
 [linkedin]: https://linkedin.com/in/devmarcel
